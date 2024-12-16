@@ -1,2 +1,2 @@
-for balot in range(10,1,-1):
-    y = int(input(f"{x}#:"))
+for cycle in range (10,0,-1):
+    print(cycle)
